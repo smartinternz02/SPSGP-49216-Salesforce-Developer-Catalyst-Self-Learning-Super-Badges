@@ -1,7 +1,7 @@
 # Final Internship Document upload
 
 name:SPSGP-31679-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges.pdf
-link:https://github.com/smartinternz02/SPSGP-31679-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges/blob/main/SPSGP-31679-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges.pdf
+link:https://github.com/Chandanchandru/Salesforce-Developer/blob/main/SPSGP-49216-Salesforce-Developer-Catalyst-Self-Learning-Super-Badges.pdf.pdf
 
 # Salesforce DX Project: Next Steps
 
